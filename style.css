@@ -1,0 +1,7 @@
+.card {
+    margin: 1%;
+    flex-grow: 1;
+}
+.deck {
+    display: grid;
+}
